@@ -1,5 +1,5 @@
-# introducao_tecnologia_em_TI
-aula introdutória sobre o GitHub
+# Hello_Word
+usado para práticar o fluxo do github
 
 
 By Felipe Piva
